@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌍 I’m based in india.<br>- 📚 I'm currently learning MERN stack.<br>- 🤝 I'm open to collaborate on Web Projects <br> - 📧 You can contact me at mailto='sainathislavath7@gmail.com'</p>
+<p align="left">- 🌍 I’m based in india.<br>- 📚 I'm currently learning MERN stack.<br>- 🤝 I'm open to collaborate on Web Projects <br> - 📧 You can contact me at sainathislavath7@gmail.com</p>
 
 ###
 
