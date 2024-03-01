@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="left">Hi 👋! My name is Laxmi Sainath Islavath and I'm a Frontend Developer</h2>
 
 ###
@@ -42,7 +40,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href= "https://www.linkedin.com/in/laxmi-sainath-islavath-9213891b6/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 </div>
 
