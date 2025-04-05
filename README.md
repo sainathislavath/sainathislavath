@@ -28,8 +28,8 @@
   <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" /></a>
   <a href="https://html.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /></a>
   <a href="https://css3.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" height="40" alt="Tailwind CSS" /></a>
-  <a href="https://mui.com/" target="_blank"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="30" alt="Material UI" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="40" alt="Tailwind CSS" /></a>
+  <a href="https://mui.com/" target="_blank"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="40" alt="Material UI" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" /></a>
 
   <!-- Backend & DB -->
