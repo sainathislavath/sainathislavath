@@ -23,6 +23,7 @@
 
 <div align="left">
   <!-- Web & Frontend -->
+  <p>Web & Frontend</p>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /></a>
   <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" /></a>
@@ -33,6 +34,7 @@
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" /></a>
 
   <!-- Backend & DB -->
+  <p>Backend & DB</p>
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /></a>
@@ -40,11 +42,13 @@
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" /></a>
 
   <!-- Programming Languages -->
+  <p>Programming Languages</p>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /></a>
 
   <!-- AI & Prompt Engineering -->
+  <p>AI & Prompt Engineering</p>
   <a href="#"><img src="https://img.icons8.com/fluency/48/chatgpt.png" height="40" alt="Gen AI" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/webmaxru/prompt-engineering-logo/2ceea5e5b827e0bcbc4226cbca3539540c0946ae/assets/sticker_prompt-engineering.svg" height="40" alt="Prompt Engineering" /></a>
 </div>
