@@ -19,36 +19,36 @@
 
 #### 🎨 Web & Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="40" title="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="30" title="Material UI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" title="Angular"/></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="40" title="Tailwind CSS"/></a>
+  <a href="https://mui.com/" target="_blank"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="30" title="Material UI"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/></a>
 </p>
 
 #### 🔧 Backend & Database
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/>
-  <img src="https://img.icons8.com/ios-filled/50/database.png" height="40" title="SQL" alt="SQL"/>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" title="Firebase"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png" height="40" title="SQL" alt="SQL"/></a>
 </p>
 
 #### 🧠 Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/></a>
 </p>
 
 #### 🤖 AI & Prompt Engineering
 <p>
-  <img src="https://img.icons8.com/fluency/48/chatgpt.png" height="40" title="Generative AI"/>
-  <img src="https://raw.githubusercontent.com/webmaxru/prompt-engineering-logo/2ceea5e5b827e0bcbc4226cbca3539540c0946ae/assets/sticker_prompt-engineering.svg" height="40" title="Prompt Engineering"/>
+  <a href="https://openai.com/blog/chatgpt" target="_blank"><img src="https://img.icons8.com/fluency/48/chatgpt.png" height="40" title="Generative AI"/></a>
+  <a href="https://www.promptingguide.ai/" target="_blank"><img src="https://raw.githubusercontent.com/webmaxru/prompt-engineering-logo/2ceea5e5b827e0bcbc4226cbca3539540c0946ae/assets/sticker_prompt-engineering.svg" height="40" title="Prompt Engineering"/></a>
 </p>
 
 ---
