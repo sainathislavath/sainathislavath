@@ -35,7 +35,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" title="Firebase"/></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/></a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png" height="40" title="SQL" alt="SQL"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.icons8.com/ios-filled/50/database.png" height="40" title="SQL" alt="SQL"/></a>
 </p>
 
 #### 🧠 Programming Languages
