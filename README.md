@@ -45,8 +45,8 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /></a>
 
   <!-- AI & Prompt Engineering -->
-  <a href="#"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-ai-artificial-intelligence-flaticons-lineal-color-flat-icons.png" height="40" alt="Gen AI" /></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/48/chatgpt.png" height="40" alt="Prompt Engineering" /></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/48/chatgpt.png" height="40" alt="Gen AI" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/webmaxru/prompt-engineering-logo/2ceea5e5b827e0bcbc4226cbca3539540c0946ae/assets/sticker_prompt-engineering.svg" height="40" alt="Prompt Engineering" /></a>
 </div>
 
 ###
