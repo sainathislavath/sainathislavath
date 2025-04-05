@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" title="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/>
-  <img src="https://e7.pngegg.com/pngimages/525/959/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark.png" height="40" title="SQL" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" title="SQL" alt="SQL"/>
 </p>
 
 #### 🧠 Programming Languages
