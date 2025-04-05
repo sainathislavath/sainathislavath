@@ -8,7 +8,6 @@
 <p align="left">
   🚩 Based in <strong>India</strong><br>
   📘 Currently learning <strong>DevOps & Cloud Engineering</strong><br>
-  ✅ Proficient in the <strong>MERN Stack</strong> and exploring <strong>Generative AI</strong> & <strong>Prompt Engineering</strong><br>
   💡 Passionate about creating scalable solutions and solving real-world problems through code<br>
   🤝 Open to collaboration on <em>Web Apps, AI Tools, and Full-stack Projects</em><br>
   📫 Reach me at: <a href="mailto:sainathislavath7@gmail.com"><strong>sainathislavath7@gmail.com</strong></a>
