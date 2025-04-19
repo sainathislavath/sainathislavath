@@ -45,6 +45,12 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/></a>
 </p>
 
+#### 🔁 Version Control
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" style="background-color: white; border-radius: 50%;" /></a>
+</p>
+
 #### 🤖 AI & Prompt Engineering
 <p>
   <a href="https://openai.com/blog/chatgpt" target="_blank"><img src="https://img.icons8.com/fluency/48/chatgpt.png" height="40" title="Generative AI"/></a>
