@@ -20,7 +20,8 @@
 ---
 
 #### 🧩 Full-Stack Development
-<p>
+
+<p align="left">
   <!-- Frontend -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/></a>
   <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" title="Angular"/></a>
@@ -39,7 +40,7 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" title="Firebase"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/database.png" height="40" title="MySQL/SQL"/></a>
 
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/></a>
@@ -48,7 +49,8 @@
 ---
 
 #### 🚀 DevOps, Cloud & Tools
-<p>
+
+<p align="left">
   <!-- OS & Cloud -->
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" title="AWS"/></a>
@@ -56,9 +58,9 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes"/></a>
 
-  <!-- Version Control -->
+  <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/></a>
-  <a href="https://openai.com/blog/chatgpt" target="_blank"><img src="https://img.icons8.com/fluency/48/chatgpt.png" height="40" title="Generative AI"/></a>
+  <a href="https://openai.com/blog/chatgpt" target="_blank"><img src="https://img.icons8.com/fluency/48/chatgpt.png" height="40" title="ChatGPT"/></a>
   <a href="https://www.promptingguide.ai/" target="_blank"><img src="https://raw.githubusercontent.com/webmaxru/prompt-engineering-logo/2ceea5e5b827e0bcbc4226cbca3539540c0946ae/assets/sticker_prompt-engineering.svg" height="40" title="Prompt Engineering"/></a>
 </p>
 
@@ -77,6 +79,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="https://sainathislavath.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=81CAD6&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=81CAD6&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
 </p>
